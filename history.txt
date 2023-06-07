@@ -1,0 +1,20 @@
+jobs
+vim &
+jobs
+fg 1
+jobs
+cd ..
+vim
+jobs
+vim
+jobs
+fg 1
+jobs
+fg 2
+jobs
+cd ..
+vim &
+vim
+jobs
+vim
+jobs
